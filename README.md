@@ -1,6 +1,6 @@
 # AstraStack
 
-Proyecto híbrido en Rust + C creado para Astra. Combina un núcleo de transformaciones de datos de alto rendimiento en Rust con enlaces FFI simples para C, más una CLI lista para producción.
+Proyecto híbrido en Rust + C creado por Astra. Combina un núcleo de transformaciones de datos de alto rendimiento en Rust con enlaces FFI simples para C, más una CLI lista para producción.
 
 ## Características
 - Núcleo Rust rápido con perfiles de transformación (recorte, mayúsculas, eliminación de vacíos, deduplicación).
